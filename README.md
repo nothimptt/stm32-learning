@@ -1,2 +1,2 @@
 # STM32
-My STM32 learning and practice
+STM32 learning notes, examples and embedded development projects.
